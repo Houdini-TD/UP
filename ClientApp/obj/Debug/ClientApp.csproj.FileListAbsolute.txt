@@ -1,0 +1,13 @@
+D:\MyProjects\Ucheba\4kurs\UP02\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+D:\MyProjects\Ucheba\4kurs\UP02\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+D:\MyProjects\Ucheba\4kurs\UP02\ClientApp\ClientApp\bin\Debug\ClientApp.pdb
+D:\MyProjects\Ucheba\4kurs\UP02\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+D:\MyProjects\Ucheba\4kurs\UP02\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.SuggestedBindingRedirects.cache
+D:\MyProjects\Ucheba\4kurs\UP02\ClientApp\ClientApp\obj\Debug\ClientApp.Form1.resources
+D:\MyProjects\Ucheba\4kurs\UP02\ClientApp\ClientApp\obj\Debug\ClientApp.FuelSelect.resources
+D:\MyProjects\Ucheba\4kurs\UP02\ClientApp\ClientApp\obj\Debug\ClientApp.Payment.resources
+D:\MyProjects\Ucheba\4kurs\UP02\ClientApp\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+D:\MyProjects\Ucheba\4kurs\UP02\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.cache
+D:\MyProjects\Ucheba\4kurs\UP02\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+D:\MyProjects\Ucheba\4kurs\UP02\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+D:\MyProjects\Ucheba\4kurs\UP02\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
